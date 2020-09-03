@@ -15,7 +15,7 @@ bisweb_path = ''
 mask_folder = ''
 img_folder = ''
 
-# REQUIRED: enter your output folder path
+# REQUIRED: enter your output folder path, ending with slash
 outputs_folder = ''
 
 # OPTIONAL: enter the pair registration grid path
