@@ -18,7 +18,7 @@ img_folder = ''
 # REQUIRED: enter your output folder path, ending with slash
 outputs_folder = ''
 
-# OPTIONAL: enter the pair registration grid path
+# OPTIONAL: enter the pair registration grid path, ending with slash
 gridpath = ''
 
 # REQUIRED: enter what kinds of augmentations you want to apply
