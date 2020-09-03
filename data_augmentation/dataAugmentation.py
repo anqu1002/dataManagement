@@ -2,7 +2,7 @@
 #
 #   Created on: September 2, 2020
 #   Authors:   An Qu
-#             {an.qu} <at> kth.se
+#             {anq} <at> kth.se
 #
 
 import os
