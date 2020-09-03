@@ -8,7 +8,7 @@ import random as rd
 
 # write your input files/parameters here-----------------------------------------------------------------------
 # REQUIRED: enter the absolute path of the bisweb
-# the last folder should be bisweypython
+# the ending folder should be bisweypython, e.g., /path/to/bisweb/biswebpython
 bisweb_path = ''
 
 # REQUIRED: enter the path of your input images and masks, ending with slash
