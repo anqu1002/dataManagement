@@ -1,7 +1,7 @@
 #   dataAugmentation.py
 #
 #   Created on: September 2, 2020
-#   Authors:   An Qu
+#   Authors:   An Qu and Xenios Papademetris
 #             {anq} <at> kth.se
 #
 
