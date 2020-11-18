@@ -17,6 +17,7 @@ import random as rd
 bisweb_path = ''
 
 # REQUIRED: enter the path of your input images and masks, ending with slash
+# Please make sure your images and masks names matched, e.g., image: subj1_ses1_image1.nii.gz, mask: subj1_ses1_image1_mask.nii.gz.
 mask_folder = ''
 img_folder = ''
 
