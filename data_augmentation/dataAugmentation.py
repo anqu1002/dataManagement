@@ -389,15 +389,13 @@ if __name__ == '__main__':
                     padding(img_folder+j, oup_img+'/'+j.replace('.nii.gz', '_pad.nii.gz'), pad_dim, inp_mask=root+i, oup_mask=oup_mask+'/'+i.replace('_mask.nii.gz', '_pad_mask.nii.gz'))
                     ib.append([oup_img+'/'+j.replace('.nii.gz', '_pad.nii.gz')])
                     mb.append([oup_mask+'/'+i.replace('_mask.nii.gz', '_pad_mask.nii.gz')])
-                    il.append([oup_img+'/'+j.replace('.nii.gz', '_pad.nii.gz')])
-                    ml.append([oup_mask+'/'+i.replace('_mask.nii.gz', '_pad_mask.nii.gz')])
+             
 
                 if cropf:
                     crop(img_folder+j, oup_img+'/'+j.replace('.nii.gz', '_crop.nii.gz'), crp_dim, inp_mask=root+i, oup_mask=oup_mask+'/'+i.replace('_mask.nii.gz', '_crop_mask.nii.gz'))
                     ib.append([oup_img+'/'+j.replace('.nii.gz', '_crop.nii.gz')])
                     mb.append([oup_mask+'/'+i.replace('_mask.nii.gz', '_crop_mask.nii.gz')])
-                    il.append([oup_img+'/'+j.replace('.nii.gz', '_crop.nii.gz')])
-                    ml.append([oup_mask+'/'+i.replace('_mask.nii.gz', '_crop_mask.nii.gz')])
+                    
 
 
     for ele in ib:
