@@ -1,0 +1,6 @@
+taskIntpn---rest card eyes gradCPT movies nBack SST
+GUID---subj---bday---tday---age---sex---taskOrder
+NNN---sub-pb0000---4/24/1993---2/9/2018---24---F---0 3 4 1 2 6 5 0
+DDD---sub-pa1111---5/12/1978---3/1/2018---39---F---0 4 2 1 3 6 5 0
+AAA---sub-pa2222---10/12/1990---5/2/2018---27---M---0 5 4 1 2 3 6 0
+RRR---sub-pb3333---6/21/1985---5/18/2018---32---M---0 1 2 6 5 3 4 0
